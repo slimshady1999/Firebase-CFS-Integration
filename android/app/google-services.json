@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770703234334",
+    "project_id": "cloud-firestore-practice-2a8a6",
+    "storage_bucket": "cloud-firestore-practice-2a8a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770703234334:android:53a48a500833e4857e250f",
+        "android_client_info": {
+          "package_name": "com.example.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770703234334-l176j7ccda12jujllm2tkbslo2dt3uo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtgkRXFKTxu-vctrukeAVirgUsN5299k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770703234334-l176j7ccda12jujllm2tkbslo2dt3uo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
